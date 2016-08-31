@@ -1,0 +1,24 @@
+{
+    "name": "gbot",
+    "version": "1.0.0",
+    "description": "The G-Bot Project for Discord",
+    "main": "app.js",
+    "dependencies": {
+        "discord.io": "^1.8.8"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gdg-galway/gbot.git"
+    },
+    "keywords": [],
+    "author": "GDG Galway",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gdg-galway/gbot/issues"
+    },
+    "homepage": "https://github.com/gdg-galway/gbot#readme"
+}
